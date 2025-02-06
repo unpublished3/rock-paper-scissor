@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+env/
+__pycache__/
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# IDE files
+.vscode/
+.idea/
+
+# Cache and other temp files
+.cache/
+.mypy_cache/
+tox/
+.nox/
+
+# Environment files
+.env/
+
+# Logs
+*.log
+
+# Virtualenv-specific directories (bin, lib, lib64, include)
+bin/
+lib/
+lib64/
+include/
+lib64
+
+Rock-Paper-Scissors/
